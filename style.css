@@ -1,0 +1,48 @@
+table, td{
+ padding 5px;
+ border:solid
+}
+th{
+ padding 5px;
+ border:solid
+}
+.math{
+  background: red
+}
+.phys{
+  background:blue
+}
+.geog{
+  background:green
+}
+.bio{
+  background:pink
+}
+.inf{
+  background:grey
+}
+.eng{
+  background:violet
+}
+.adeb{
+  background:orange
+}
+.qz{
+ background:yellow 
+}
+.his{
+  background:brown
+}
+.chem{
+  background:purple
+}
+.ru{
+  background:silver
+}
+.pe{
+  background:gold
+}
+td:hover{
+  background-color: #ffeb3b;
+  cursor: pointer;
+}
